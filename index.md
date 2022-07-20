@@ -3,20 +3,14 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
 
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
-  
-It may be helpful to know that you can *italicize* text with single-asterisks
-(or alternatively, using _underscores_),
-and that you can **bold** text using double-asterisks.
-
-If you want to insert a link, use `[` in order to delimit the text that you wish
-to appear in the web-UI, and after closing the text with `]`insert the URL in a
-set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
+In the past 50 years, supercomputers have achieved what was once considered only possible in Sci-Fi movies.
+The key to the tremendous success of supercomputers has been a combination of outstanding architectures plus software that uses all the available resources and makes parallelization possible.
+This secret sauce has led to different implementations across fields.
+Scientists typically rely on three main programming interfaces: OpenMP for shared memory computers, CUDA for GPU computing, and MPI for distributed memory computers.
+MPI in particular is essential to be able to achieve performance on systems with millions of nodes.
+This workshop explores the key features of these three approaches, explaining their underlying philosophy and how they leverage the different computer architectures.
+The final goal is to give the student a taste of the different programming paradigms and the tools to decide which is the best approach.
 
 ## About the Instructor
 
@@ -30,9 +24,15 @@ sticky note with "To Do" written on it).
     ```
     /assets/img/profile.jpg
     ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
+![Eric Darve](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-TODO(instructor): insert a description about yourself here!
+Professor Eric Darve received his Ph.D.
+in Applied Mathematics at the Jacques-Louis Lions Laboratory, in the Pierre et Marie Curie University, Paris, France.
+His advisor was Prof. Olivier Pironneau, and his Ph.D. thesis was entitled "Fast Multipole Methods for Integral Equations in Acoustics and Electromagnetics."
+He was previously a student at the Ecole Normale Supérieure, rue d'Ulm, Paris, in Mathematics and Computer Science.
+Prof. Darve became a postdoctoral scholar with Profs.
+Moin and Pohorille at Stanford and NASA Ames in 1999 and joined the faculty at Stanford University in 2001.
+He is a member of the Institute for Computational and Mathematical Engineering.
 
 # Workshop Materials
 
