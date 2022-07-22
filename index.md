@@ -14,20 +14,9 @@ The final goal is to give the student a taste of the different programming parad
 
 ## About the Instructor
 
-TODO(instructor): create a profile photo in two steps.
+![Eric Darve](/assets/img/eric_darve.jpeg){:style="max-width:30%;"}
 
-  * Replace "instructor-name" in the image below with your name (note: this link
-is only visible in the raw-text file; on the web-page itself you'll simply see a
-sticky note with "To Do" written on it).
-  * Move the image you would like to appear on your website into the 
-    following folder contained in your website's working directory
-    ```
-    /assets/img/profile.jpg
-    ```
-![Eric Darve](/assets/img/profile.jpg){:style="max-width:30%;"}
-
-Professor Eric Darve received his Ph.D.
-in Applied Mathematics at the Jacques-Louis Lions Laboratory, in the Pierre et Marie Curie University, Paris, France.
+Professor Eric Darve received his Ph.D. in Applied Mathematics at the Jacques-Louis Lions Laboratory, in the Pierre et Marie Curie University, Paris, France.
 His advisor was Prof. Olivier Pironneau, and his Ph.D. thesis was entitled "Fast Multipole Methods for Integral Equations in Acoustics and Electromagnetics."
 He was previously a student at the Ecole Normale Supérieure, rue d'Ulm, Paris, in Mathematics and Computer Science.
 Prof. Darve became a postdoctoral scholar with Profs.
