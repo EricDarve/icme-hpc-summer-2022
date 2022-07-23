@@ -52,7 +52,7 @@ For example, click on `colab_demo.ipynb`. Then click on `Runtime -> Run All`. Th
 - [OpenCL](https://www.khronos.org/opencl/)
 - [Numba](https://numba.pydata.org/)
 - [CUDA](https://developer.nvidia.com/cuda-toolkit)
-- [Fundamentals of HIP programming](https://developer.amd.com/resources/rocm-learning-center/fundamentals-of-hip-programming/#:~:text=The%20Heterogeneous%20Interface%20for%20Portability,portable%20applications%20on%20different%20platforms.)
+- [Fundamentals of HIP programming](https://developer.amd.com/resources/rocm-learning-center/fundamentals-of-hip-programming)
 - [NVIDIA HPC SDK](https://developer.nvidia.com/hpc)
 - [Learning how to program in OpenACC](https://www.openacc.org/resources)
 - [GoogleTest](https://google.github.io/googletest/)
