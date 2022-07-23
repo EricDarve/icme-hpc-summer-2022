@@ -56,4 +56,4 @@ For example, click on `colab_demo.ipynb`. Then click on `Runtime -> Run All`. Th
 - [NVIDIA HPC SDK](https://developer.nvidia.com/hpc)
 - [Learning how to program in OpenACC](https://www.openacc.org/resources)
 - [GoogleTest](https://google.github.io/googletest/)
-- Roundoff errors: [Wikipedia](https://en.wikipedia.org/wiki/Round-off_error), [Python Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter09.03-Roundoff-Errors.html)
+- Roundoff errors: [Wikipedia](https://en.wikipedia.org/wiki/Round-off_error); [Python Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter09.03-Roundoff-Errors.html)
