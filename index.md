@@ -57,3 +57,7 @@ For example, click on `colab_demo.ipynb`. Then click on `Runtime -> Run All`. Th
 - [Learning how to program in OpenACC](https://www.openacc.org/resources)
 - [GoogleTest](https://google.github.io/googletest/)
 - Roundoff errors: [Wikipedia](https://en.wikipedia.org/wiki/Round-off_error); [Python Numerical Methods, Berkeley](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter09.03-Roundoff-Errors.html)
+- [NUMA, Non-Uniform Memory Access](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
+- [What is NUMA?](https://www.techtarget.com/whatis/definition/NUMA-non-uniform-memory-access)
+- [OpenMP affinity](https://www.hpc-training.org/xsede/moodle/pluginfile.php/3266/mod_page/content/79/IHPCSS-2019_OpenMP_Affinity_v2.pdf)
+- See the concepts of places and in the [specification](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5-2.pdf); [OMP_PLACES](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5-2.pdf#page=622), [OMP_PROC_BIND](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5-2.pdf#page=624).
