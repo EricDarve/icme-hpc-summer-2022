@@ -31,7 +31,7 @@ For example, click on `colab_demo.ipynb`. Then click on `Runtime -> Run All`. Th
 
 ## Schedule
 
-#### Session 1 (Thursday, August 11 1:00 PM - 4:00 PM PDT)
+#### Session 1 (Thursday, August 11 1:00 PM - 4:00 PM PDT) [[Recording](https://stanford.zoom.us/rec/share/eiZL0JlDg0dWtK5nAPI2WlEpSngXmM8B7ntOjEqccvfqO6gDMwIg0ioSpsc2rhBp.EDlU1J2MGHM5Mzd9?startTime=1660247083000)]
 
 - Introduction to High-Performance Computing
 - Multicore programming using OpenMP
