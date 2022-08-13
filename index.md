@@ -36,7 +36,7 @@ For example, click on `colab_demo.ipynb`. Then click on `Runtime -> Run All`. Th
 - Introduction to High-Performance Computing
 - Multicore programming using OpenMP
   
-#### Session 2 (Friday, August 12 1:00 PM - 4:00 PM PDT)
+#### Session 2 (Friday, August 12 1:00 PM - 4:00 PM PDT) [[Recording](https://stanford.zoom.us/rec/share/nfZ44s6sMeBHdWgWQFumQJlz-KJcJPmpJuL75hVq2xiLhgIalmbCfQ3SAIFjxOVs.Xgq9epDScSUrBen3?startTime=1660333396000)]
 
 - GPU programming using OpenACC
 - Hands-on lab with an n-body code modeling n particles interacting with gravitational forces. This type of method can be used as a model of the planets orbiting the sun in the solar system.
